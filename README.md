@@ -3,6 +3,6 @@ Create a program, which, given a valid sequence of rolls for one line of America
 
 This is a console app built on .NET 5
 
-To run all unit tests, run below command inside BowlingBall.Tests directory - 
+To run all unit tests, run below command inside BowlingBallTests directory - 
 
   dotnet test
